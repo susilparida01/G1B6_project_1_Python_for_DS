@@ -1,2 +1,2 @@
-# Graded-Project-PythonForDS
+# Graded-ProjectOne-PythonForDS
 Graded-ProjectOne-PythonForDS
